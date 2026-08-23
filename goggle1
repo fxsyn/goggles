@@ -1,0 +1,23 @@
+! name: Fort Brave
+! description: quick Goggles assembly
+! public: false
+! author: Goggles Short-circuit
+
+!$discard
+$boost=3,site=en.wikipedia.org
+$boost=3,site=zh.wikipedia.org
+$boost=3,site=en.wiktionary.org
+$boost=3,site=zh.wiktionary.org
+
+$boost=2,site=news.ycombinator.com
+$boost=2,site=reddit.com
+$boost=2,site=nih.gov
+$boost,site=stackexchange.com
+$boost,site=apnews.com
+$boost,site=bbc.co*
+$boost,site=ft.com
+$boost,site=reuters.com
+$boost,site=nytimes.com
+$boost,site=theguardian.com
+$boost,site=washingtonpost.com
+$boost,site=wsj.com
