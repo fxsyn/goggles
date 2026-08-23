@@ -14,7 +14,8 @@ $boost=2,site=reddit.com
 $boost=2,site=nih.gov
 $boost,site=stackexchange.com
 $boost,site=apnews.com
-$boost,site=bbc.co*
+$boost,site=bbc.co.uk
+$boost,site=bbc.com
 $boost,site=ft.com
 $boost,site=reuters.com
 $boost,site=nytimes.com
