@@ -11,6 +11,7 @@ $boost=5,site=zh.wiktionary.org
 $boost=4,site=zdic.net
 $boost=4,site=ctext.org
 $boost=3,site=merriam-webster.com
+$boost=3,site=collinsdictionary.com
 $boost=4,site=dictionary.cambridge.org
 !$boost=4,site=dictionary.cambridge.org/us/dictionary/english-chinese
 
@@ -23,7 +24,11 @@ $boost,site=bbc.co.uk
 $boost,site=bbc.com
 $boost,site=ft.com
 $boost,site=reuters.com
+$boost,site=ft.com
+$boost,site=latimes.com
 $boost,site=nytimes.com
 $boost,site=theguardian.com
 $boost,site=washingtonpost.com
 $boost,site=wsj.com
+$boost,site=theatlantic.com
+$boost,site=foreighaffairs.com
