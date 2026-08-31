@@ -3,13 +3,14 @@
 ! public: false
 ! author: Goggles Short-circuit
 
-!$discard
+$discard
 $boost=3,site=en.wikipedia.org
 $boost=5,site=zh.wikipedia.org
-$boost=3,site=en.wiktionary.org
+$boost=4,site=en.wiktionary.org
 $boost=5,site=zh.wiktionary.org
-$boost=5,site=dictionary.cambridge.org
-!$boost=5,site=dictionary.cambridge.org/us/dictionary/english-chinese
+$boost=4,site=zdic.net
+$boost=4,site=dictionary.cambridge.org
+!$boost=4,site=dictionary.cambridge.org/us/dictionary/english-chinese
 
 $boost=2,site=news.ycombinator.com
 $boost=2,site=reddit.com
