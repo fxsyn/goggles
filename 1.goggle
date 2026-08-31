@@ -4,16 +4,17 @@
 ! author: Goggles Short-circuit
 
 $discard
+/dictionary/english-chinese-simplified/$boost=5,site=dictionary.cambridge.org   
 $boost=3,site=en.wikipedia.org
 $boost=5,site=zh.wikipedia.org
 $boost=4,site=en.wiktionary.org
 $boost=5,site=zh.wiktionary.org
-$boost=4,site=zdic.net
-$boost=4,site=ctext.org
+$boost=3,site=zdic.net
+$boost=3,site=ctext.org
 $boost=3,site=merriam-webster.com
 $boost=3,site=collinsdictionary.com
-$boost=4,site=dictionary.cambridge.org
-!$boost=4,site=dictionary.cambridge.org/us/dictionary/english-chinese
+$boost=3,site=dictionary.cambridge.org
+dictionary/english-chinese/$boost=3,site=bab.la
 
 $boost=2,site=news.ycombinator.com
 $boost=2,site=reddit.com
